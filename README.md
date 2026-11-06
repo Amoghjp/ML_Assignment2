@@ -7,7 +7,7 @@ Classify a breast mass as malignant or benign from numeric measurements computed
 The Wisconsin Breast Cancer Diagnostic dataset has 569 instances, 30 numeric features, and two classes. Target `0` means malignant and target `1` means benign. The data is provided by scikit-learn from the UCI ML Breast Cancer Wisconsin (Diagnostic) dataset. Dataset reference: https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic
 
 ## GitHub repository link
-Add your own repository URL here: `https://github.com/Amoghjp/ML_Assignment2`
+`https://github.com/Amoghjp/ML_Assignment2`
 
 ## Models and metrics
 The data is split once using a stratified 80/20 train/test split (`random_state=42`). All models use that same split. AUC is calculated for class 1 (benign).
